@@ -13,7 +13,7 @@ const Experience = () => {
           <h3>Frontend Devlopment</h3>
           <div className="experience__content">
             <article className="experience__details">
-              <BsPatchCheckFill  className="experience__details-icons"/>
+              <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>HTML</h4>
                 <small className="text-light">Experienced</small>
@@ -30,7 +30,7 @@ const Experience = () => {
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill  className="experience__details-icons"/>
+              <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>JavaScript</h4>
                 <small className="text-light">Experienced</small>{" "}
@@ -38,7 +38,7 @@ const Experience = () => {
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill  className="experience__details-icons"/>
+              <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 {" "}
                 <h4>Bootstrap</h4>
@@ -82,7 +82,7 @@ const Experience = () => {
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill  className="experience__details-icons"/>
+              <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 {" "}
                 <h4>PHP</h4>
@@ -91,7 +91,7 @@ const Experience = () => {
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill  className="experience__details-icons"/>
+              <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 {" "}
                 <h4>MySQL</h4>
@@ -109,7 +109,7 @@ const Experience = () => {
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icons"/>
+              <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 {" "}
                 <h4>MongoDB</h4>

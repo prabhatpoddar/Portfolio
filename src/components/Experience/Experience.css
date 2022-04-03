@@ -50,9 +50,15 @@
     .experience__container{
         grid-template-columns: 1fr;
 
+
+    }
+    .container.experience__container{
+        width:86%;
+
+
     }
     .experience__container div{
-        width: 80%;
+        width: 86%;
         padding: 2rem;
         margin: 0 auto;
     }
@@ -62,22 +68,37 @@
     }
 
   
-}
+} 
   /* ########### MEDIA QUARIES(Mobile)   ############### */
-  
+   
   @media screen and (max-width: 600px) {
 
-    .experience__container{
+   
+    .container.experience__container{
+        width:90%;
+
+
+    } .experience__container{
         gap: 1rem;
+
     }
     .experience__container > div{
         width: 100%;
-        padding: 2rem 1rem;
+        padding:2rem 1rem;
+
         
     }
+    .experience__details-icons{
+        margin-top: 0px;
+    }
+    .experience__content{
+        row-gap: 0.1rem;
+    }
+    
+    
 
     
   }
-  
+   
 
 

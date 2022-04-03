@@ -8,6 +8,10 @@
   box-sizing: 0;
   list-style: none;
   text-decoration: none;
+  cursor: default;
+  user-select: none;
+
+
 }
 
 :root {
